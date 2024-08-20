@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/stretchr/testify/assert"
-	tele "gopkg.in/telebot.v3"
+	tele "github.com/ansipunk/telebot"
 )
 
 //go:embed *
